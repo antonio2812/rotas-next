@@ -1,36 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> Rotas NextJS </h1>
 
-## Getting Started
+<p align="center">
+  <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--mostre-seu-apoio">Mostre seu apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo--licença">Licença</a>
+</p>
 
-First, run the development server:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<br>
+
+![Captura-de-tela-rotas-nextjs](https://github.com/user-attachments/assets/9e432ec2-e973-4109-984c-a2d93274ef8d)
+
+
+## 💻  Projeto
+
+Este projeto foi desenvolvido utilizando o NextJS, focando na criação de uma navegação eficiente e otimizada com o uso do componente Link. O NextJS, sendo uma poderosa ferramenta para o desenvolvimento de aplicações React, oferece um sistema de rotas simplificado, permitindo que a navegação entre páginas ocorra de forma rápida e sem a necessidade de carregamento completo da página.
+
+[Visite o projeto online](https://teste-next-nine.vercel.app/)
+
+## ⚡  Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- NextJS
+- Git e GitHub
+
+## 🤝  Como Contribuir
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  # Clone o projeto
+  $ git clone https://github.com/antonio2812/teste-next.git
+````
+
+```bash
+  # Entrar no diretório
+  $ cd teste-next
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+  # Instale as dependências utilizando o npm
+  $ npm install
+```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+  # Executar
+  $ npm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+  # rodar o projeto
+  $ npm run web
+```
 
-## Learn More
+```bash
+  # rodar o servidor
+  $ npm run server
+```
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">Ou</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+  # Instale as dependências utilizando o yarn
+  $ yarn
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+  # Executar
+  $ yarn start
+```
 
-## Deploy on Vercel
+## 👤  Autor
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Antonio  Carlos**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior/)
+* [Gmail](mailto:acarlosdesouzajunior@gmail.com)
+* [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
+* [Discord](https://discord.com/channels/@me)
+
+## ✨  Mostre seu apoio
+
+Dar uma⭐️se esse projeto te ajudou ou inspirou!
+
+## :memo:  Licença
+
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/teste-next/blob/main/LICENSE">LICENSE</a> para mais detalhes.
