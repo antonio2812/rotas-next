@@ -29,6 +29,7 @@ Este projeto foi desenvolvido utilizando o NextJS, focando na criação de uma n
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NextJS
+- Vercel
 - Git e GitHub
 
 ## 🤝  Como Contribuir
